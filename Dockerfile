@@ -1,3 +1,3 @@
-# Your Dockerfile contents go here! Hello
+# Your Dockerfile contents go here! Some fix
 FROM nginx:1.17
 COPY . /usr/share/nginx/html/
